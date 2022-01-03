@@ -1,0 +1,109 @@
+body {
+  background-color: #111111;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 64px;
+  text-align: center;
+}
+
+h2 {
+  color: #FFFFFF;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 32px;
+  text-align: center;
+}
+
+h3 {
+  color: #FFFFFF;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 32px;
+  text-align: center;
+}
+
+h6 {
+  color: #FFFFFF;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 16px;
+}
+
+ul {
+  color: #FFFFFF;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 22px;
+}
+/*
+#rightAlignImage {
+  clear: right;
+  float: right;
+}
+*/
+img {
+  border: 5px solid #999999;
+  border-spacing: 5px;
+}
+
+a {
+  color: #FFFFFF;
+  font-family: sans-serif, Helvetica, Arial;
+}
+
+p {
+  color: white;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 14px;
+  text-align: center;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+
+  height: 0;
+  width: 15%;
+  border-width: 4px;
+  border-color: white;
+}
+table {
+  color: white;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  color: white;
+  text-align: center;
+  list-style-position: inside;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 18px;
+}
+ol {
+  color: white;
+  text-align: center;
+  list-style-position: inside;
+  font-family: sans-serif, Helvetica, Arial;
+  font-size: 18px;
+}
+
+form {
+  color: white;
+  font-family: sans-serif, Helvetica, Arial;
+  margin-left: auto;
+  margin-right: auto;
+}
+input {
+  color: white;
+  background-color: #111111;
+  font-family: sans-serif, Helvetica, Arial;
+  margin-left: auto;
+  margin-right: auto;
+}
+textarea {
+  color: white;
+  background-color: #111111;
+  font-family: sans-serif, Helvetica, Arial;
+  margin-left: auto;
+  margin-right: auto;
+}
