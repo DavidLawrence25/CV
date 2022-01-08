@@ -1,0 +1,73 @@
+/* Basic */
+body {
+	background-color: rgb(10,10,10);
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.list-table {
+	color: white;
+	font-size: 36px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.list-table td {
+	padding: 0.5rem;
+	border: 2px solid white;
+}
+
+.list-table th {
+	padding: 0.5rem;
+	border: 2px solid white;
+}
+
+/* Heading Changes */
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 84px;
+	color: white;
+	margin: 20px;
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 56px;
+	color: white;
+	margin: 20px;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 42px;
+	color: white;
+	margin: 20px;
+}
+
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: white;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+/* Text Edits */
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+/* Horizontal Rule */
+hr {
+	color: white;
+	margin: 20px;
+}
+
+/* Links */
+a {
+	color: white;
+}
